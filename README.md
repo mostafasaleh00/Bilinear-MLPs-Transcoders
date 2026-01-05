@@ -38,7 +38,7 @@ Uses sparse autoencoders (transcoders) to interpret a standard ReLU MLP.
 - Feature importance spectra (analogous to eigenvalues)
 - Misclassification analysis using feature activations
 - t-SNE visualization of sparse feature space
-- Low-rank structure analysis
+
 
 **Results:**
 - MLP test accuracy: ~98%
